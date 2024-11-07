@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "^4.21.1",
+    "kafkajs": "^2.2.4",
     "mongoose": "^8.8.0",
-    "redis": "^4.7.0"
+    "redis": "^4.7.0",
+    "supertest": "^7.0.0"
   }
 }
